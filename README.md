@@ -62,8 +62,15 @@ supply-chain-analytics-project/
 │   └── Excel_Dashboard.xlsx         # Excel-based KPI visuals
 │
 ├── powerbi_dashboard/
-│   ├── PowerBI_Dashboard.pbix       # Optional Power BI file
-│   └── PowerBI_Screenshot.png       # Visual snapshot
+│   ├── PowerBI_Dashboard.pbix       # Power BI file       
 │
 └──images/
-    └── Screenshots 
+    └── Screenshots
+```
+
+## 📁 Dataset Source
+
+The dataset used in this project is sourced from a public Kaggle competition on supply chain shipment data:  
+[Supply Chain Shipment Dataset on Kaggle](https://www.kaggle.com/prachi13/customer-analytics)  
+All data is used strictly for educational and non-commercial purposes. " is this good
+
